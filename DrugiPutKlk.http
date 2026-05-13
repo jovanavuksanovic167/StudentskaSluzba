@@ -1,0 +1,6 @@
+@DrugiPutKlk_HostAddress = http://localhost:5246
+
+GET {{DrugiPutKlk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
